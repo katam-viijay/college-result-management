@@ -1,1 +1,1 @@
-# college-result-management
+# college-result-management system
